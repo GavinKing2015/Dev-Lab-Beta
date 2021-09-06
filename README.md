@@ -19,7 +19,7 @@ CIS-486 Dev Lab Beta Story Card
 1. Transfer the files created for Lab Alpha to be sent to Heroku for publishing
 2. Add express.js code to deploy the app on the heroku server
 
-### Deploy app on heroku
+### Deploy app on Heroku
 1. Sign into Heroku
 2. Create new repo to be linked to ghyt repo
 3. Link ghyt repo to Heroku repo

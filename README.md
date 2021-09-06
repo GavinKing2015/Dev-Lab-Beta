@@ -10,7 +10,7 @@ CIS-486 Dev Lab Beta Story Card
 ## Comments/Steps to implement 🥇
 
 ### Setup Nodejs and Express:
-1. Refer to [Dev-Training-Lab-Alpha](https://github.com/04banshee/Dev-Training-Lab-ALPHA) to install and configure `NodeJS` and `Express`.
+1. Refer to [Dev-Training-Lab-Alpha](https://gist.github.com/barrycumbie/1537cc2bfbfd57dca2c2f4d8d5818358) to install and configure `NodeJS` and `Express`.
 1. Use the steps in Dev-Training-Lab Alpha to install and configure a repo to create a web application.        
     * There are many command 🩳cuts for vsCode.  Below is a short list for reference.
         * `ctl + shift + ~` = Open new terminal
@@ -21,7 +21,7 @@ CIS-486 Dev Lab Beta Story Card
     
 
 ### Create Project in Visual Code(vsCode)
-1. Refer to [Dev-Traing-Lab-Alpha](https://github.com/04banshee/Dev-Training-Lab-ALPHA) **`"Create Project in vsCode"`** section.  
+1. Refer to [Dev-Traing-Lab-Alpha](https://gist.github.com/barrycumbie/1537cc2bfbfd57dca2c2f4d8d5818358) **`"Create Project in vsCode"`** section.  
 2. Use the touch/echo commands and other `CLI` tools and techniques for your terminal enviorment to create and save your files. [Click here for bash](https://hbctraining.github.io/Intro-to-shell-flipped/lessons/extra_bash_tools.html) tools and command line examples. 💻
 3.  To make the application lighter create a `.gitignore` file to exclude unnecessary dependancies and modules.
     * `CTL + N` or `echo node_modules >> .gitignore` from CLI.  This will exclude libararies/modules or files syncing with GitHub.
@@ -37,7 +37,7 @@ CIS-486 Dev Lab Beta Story Card
  5. `CTL + X`, **save Y**, `press enter` to save with same filename or type new filename to save as new filename.
           
 ### Code the app
-1. Refer to [Dev-Traing-Lab-Alpha](https://github.com/04banshee/Dev-Training-Lab-ALPHA) `"App coding"` to start coding the `NodeJS` app.
+1. Refer to [Dev-Traing-Lab-Alpha](https://gist.github.com/barrycumbie/1537cc2bfbfd57dca2c2f4d8d5818358) `"App coding"` to start coding the `NodeJS` app.
 1. Copy 📋 below code into `index.js` file or appropriate filename.
 1. Change `HTML` section to meet your requirements.
 
@@ -53,7 +53,7 @@ app.listen(process.env.PORT || 3000);
 ```
 
 ## Test app locally
-1. Refer to [Dev-Traing-Lab-Alpha](https://github.com/04banshee/Dev-Training-Lab-ALPHA) `Testing App` section.
+1. Refer to [Dev-Traing-Lab-Alpha](https://gist.github.com/barrycumbie/1537cc2bfbfd57dca2c2f4d8d5818358) `Testing App` section.
 1. Make sure application is working locally before deploying app to persistent URL. 👍
 
 ## Deploy App to persistent URL

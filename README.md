@@ -3,7 +3,7 @@ CIS-486 Dev Lab Beta Story Card
  # User Story (Story Points = Med👕)
 **As a** end user of a `NodeJs` applications  
 
-**I want** use the `NodeJs` application on the web [like this one](https://dev-lab-beta-heroku.herokuapp.com/) 👍
+**I want** use the `NodeJs` application on the web [like this one]https:(//dev-lab-beta.herokuapp.com/) 👍
 
 **So That** I don't have to download the code, select a coding envorment, input code into evniorment, write/complile/test code, and then upload the code to a hosting site.
 
